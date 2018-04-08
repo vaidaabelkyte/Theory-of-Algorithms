@@ -86,6 +86,11 @@ For example:<br>
 
 </p>
 
+<br>
+<br>
+<i>One of the external sources I used for learning is an <a href="https://www.it.uu.se/edu/course/homepage/avfunpro/ht13/lectures/Racket-1-Intro.pdf">Introduction to Racket
+  </a>  by <b>Jean-Noël Monette</b></i>
+
 
 
 
