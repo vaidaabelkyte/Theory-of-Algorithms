@@ -77,7 +77,7 @@ the positions where <b>x</b> is <b>1 </b>and the elements of <b>z</b> otherwise.
 
 
 9. Write a function <b>sod2</b> in Racket that takes three lists <b>x, y</b> and<b> z </b> of equal length and
-containing only<b>0</b>’s and <b>1</b>’s. It should return a list containing a <b>1</b> where the number of
+containing only <b>0</b>’s and <b>1</b>’s. It should return a list containing a <b>1</b> where the number of
 <b>1</b>’s in a given position in <b>x, y</b> and<b> z </b> contains an odd nubmer of <b>1</b>’s, and<b> 0</b> otherwise.
 For example:<br>
 
